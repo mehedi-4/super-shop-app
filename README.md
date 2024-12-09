@@ -1,5 +1,5 @@
-SuperShop Management System
-The SuperShop Management System is a desktop application designed to manage and streamline the operations of a small or medium-sized retail store. Built using Qt Creator and C++, this application offers an easy-to-use interface for managing inventory, sales, and customer data.
+
+"SuperShop Management System" is a desktop application designed to manage and streamline the operations of a small or medium-sized retail store. Built using Qt Creator and C++, this application offers an easy-to-use interface for managing inventory, sales, and customer data.
 
 
 Installation
