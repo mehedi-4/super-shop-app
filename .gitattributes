@@ -1,5 +1,0 @@
-*.cpp linguist-language=C++
-*.h linguist-language=C++
-*.pro linguist-language=QMake
-*.md linguist-vendored=true
-*.o linguist-vendored=true
