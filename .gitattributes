@@ -1,5 +1,5 @@
 *.cpp linguist-language=C++
 *.h linguist-language=C++
 *.pro linguist-language=QMake
-*.md linguist-vendored=true  # Mark markdown as documentation
-*.o linguist-vendored=true  # Mark object files as generated
+*.md linguist-vendored=true
+*.o linguist-vendored=true
