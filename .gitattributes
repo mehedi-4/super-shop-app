@@ -2,3 +2,4 @@
 *.h linguist-language=C++
 *.ui linguist-language=QML  
 *.pro linguist-language=QMake
+*.md linguist-vendored=true
